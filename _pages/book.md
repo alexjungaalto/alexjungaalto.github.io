@@ -1,15 +1,15 @@
 ---
 layout: page
-title: IML Book
-subtitle: Book on Interpretable Machine Learning
-desc: A Guide for Making Black Box Models Explainable.
-permalink: /book/
+title: Machine Learning
+subtitle: The Basics
+desc: This textbook explains how machine learning combines three main components: data, model and loss. 
+permalink: https://alexjungaalto.github.io/MLBasicsBook.pdf
 ---
 
 <div class="pretty-links">
 
 <div class="lead lead-about">
-Read my book about [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/). 
+Textbook [Machine Learning. The Basics](https://alexjungaalto.github.io/MLBasicsBook.pdf). 
 </div>
 
 </div>

@@ -1,4 +1,8 @@
 # The main config file for your Jekyll template
+---
+layout: post
+title: Blogging Like a Hacker
+---
 
 # Site settings
 title: Alexander Jung              # used for the html title of every page
@@ -53,10 +57,10 @@ kramdown:
   parse_block_html: true    # allow parsing html inside markdown
 
 # Build settings
-include:
-  - _pages                  # all your pages can be put inside pages (except articles)
-exclude:
-  - README.md
-  - vendor
+#include:
+#  - _pages                  # all your pages can be put inside pages (except articles)
+#exclude:
+#  - README.md
+#  - vendor
 gems:
   - jekyll-paginate
