@@ -1,6 +1,24 @@
---- 
-layout: default 
---- 
+---
+layout: page
+title: Alexander Jung
+subtitle:
+desc: About me.
+permalink: /
+---
+
+<div class="pretty-links">
+
+<div class="lead lead-about">I am passionate about using statistics and
+machine learning on data to make humans and machines smarter.
+</div>
+</div>
+
+{::nomarkdown}
+<figure class="site-profile">
+    <img src="{{ site.baseurl }}/assets/img/AlexYellowHat.png">
+</figure>
+{:/}
+
 
 Hi. My name is Alexander Jung and im an Assistant Professor for Machine Learning. A recent focus of my research is on federated multi-task learning in massive collections of networked datasets ("big data over networks"). I am also passionate about teaching the basic principles of machine learning. I currently enjoy working on the textbook "Machine Learning. The Basics". This textbook is targeted towards undergraduate students of engineering or science programs. 
 
