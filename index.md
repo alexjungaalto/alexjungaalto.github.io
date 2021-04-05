@@ -4,4 +4,12 @@ I am an Assistant Professor for Machine Learning. The current focus of my resear
 
 You can find a current working draft of the book [here](https://alexjungaalto.github.io/MLBasicsBook.pdf). If you find this book useful for your blog post, research article or product, I would be grateful if you would cite this book as follows: 
 
-``A. Jung, "Machine Learning. The Basics.", available online at https://alexjungaalto.github.io/MLBasicsBook.pdf, 2021.``
+``A. Jung, "Machine Learning: The Basics.", 2021. available online at https://alexjungaalto.github.io/MLBasicsBook.pdf.``
+
+<pre><code>@book{jung2021,
+  title      = {Machine Learning: The Basics},
+  author     = {Alexander Jung},
+  note       = {\url{https://alexjungaalto.github.io/MLBasicsBook.pdf}},
+  year       = {2021},
+  subtitle   = {Machine Learning: The Basics.}
+}</code></pre>
