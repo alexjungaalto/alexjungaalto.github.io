@@ -11,7 +11,7 @@ permalink: /:year/:title/   # how should we display posts url
 # Meta settings
 email: alex.jung@aalto.fi
 author: Alexander Jung
-twitter_username: @alexjungaalto
+twitter_username: alexjungaalto
 github_username: alexjungaalto
 github_source: alexjungaalto.github.io
 
