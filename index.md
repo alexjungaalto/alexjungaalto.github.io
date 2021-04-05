@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Alexander Jung
 subtitle:
 desc: About me.
