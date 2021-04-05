@@ -1,66 +1,58 @@
-title: Alexander Jung (AJ)
-description: Machine Learning Evangelist
-url: https://alexjungaalto.github.io/      # put your website hosting url here
-
-#hostname: jimeh.me # used to determine if google analytics should be triggered
-#url: https://jimeh.me # the base hostname & protocol for your site
-baseurl: "" # the subpath of your site, e.g. /blog/
-permalink: /:title/
-
-
-# stuff for jekyll-seo-tag
-social:
-  name: Alex Jung
-  links:
-    - https://twitter.com/alexjungaalto
-    - https://github.com/alexjungaalto
-    - https://www.linkedin.com/in/aljung/
-    - https://www.youtube.com/channel/UC_tW4Z_GfJ2WCnKDtwMuDUA
-    - https://alexjungaalto.github.io/MLBasicsBook.pdf
-
-twitter:
-  username: alexjungaalto
-
-# Navigation settings
-# Used to define the navigation menu items
-# > Title is the tile of the navigation item, url the url and desc is the tooltip
-navigation:
-  - title: Textbook "Machine Learning. The Basics"
-    url: https://alexjungaalto.github.io/MLBasicsBook.pdf
-    desc: Draft for Textbook "Machine Learning. The Basics" 
-  - title: YouTube Channel
-    url: https://www.youtube.com/channel/UC_tW4Z_GfJ2WCnKDtwMuDUA
-    desc: My YouTube channel
-  - title: LinkedIn
-    url: https://www.linkedin.com/in/aljung/
-    desc: My LinkedIn account
-
-
-# additional stuff
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - Rakefile
-  - README.md
+layout: sidebar
+style: light
 
 plugins:
-  - jekyll-sitemap
-  - jekyll-seo-tag
+  - jekyll-octicons
+  - jekyll-github-metadata
+  - jemoji
+
+permalink: /:year/:month/:day/:title/
 
 defaults:
-  - scope:
-      path: ""
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "posts"
     values:
-      layout: "default"
+      layout: "post"
 
+projects:
+  sort_by: pushed
+  # sort_by options:
+  #   - pushed
+  #   - stars
+  limit: 9
+  exclude:
+    archived: false
+    forks: true
+    projects:
+    # - repo-name
 
+# social_media:
+  # behance: your_username
+  # dribbble: your_username
+  # facebook: your_username
+  # hackerrank: your_username
+  # instagram: your_username
+  # keybase: your_username
+  # linkedin: your_username
+  # mastodon: your_username
+  # medium: your_username
+  # stackoverflow: your_user_id
+  # telegram: your_username
+  # twitter: your_username
+  # unsplash: your_username
+  # vk: your_username
+  # website: http://your_website_url
+  # youtube: your_username
 
+topics:
+  - name: CSS
+    web_url: https://github.com/topics/css
+    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
 
+  - name: Web design
 
-
-
-
-
-
-
-
+  - name: Sass
+    web_url: https://github.com/topics/sass
+    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
