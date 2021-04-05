@@ -1,0 +1,62 @@
+# The main config file for your Jekyll template
+
+# Site settings
+title: Alexander Jung              # used for the html title of every page
+desc: Professional website of Alexander Jung
+
+url: https://alexjungaalto.github.io/      # put your website hosting url here
+baseurl: ''                 # the subpath of your site, e.g. /blog
+permalink: /:year/:title/   # how should we display posts url
+
+# Meta settings
+email: alex.jung@aalto.fi
+author: Alexander Jung
+twitter_username: @alexjungaalto
+github_username: alexjungaalto
+github_source: alexjungaalto.github.io
+
+# Put your ga tracking code below
+google_analytics: 'UA-XXXXXXXX-X'
+
+# Pagination settings
+paginate: 5                           # number of posts to show per page
+paginate_path: "/articles/page:num/"  # link scheme for articles, should be letf as is
+
+# Navigation settings
+# Used to define the navigation menu items
+# > Title is the tile of the navigation item, url the url and desc is the tooltip
+navigation:
+  - title: Textbook "Machine Learning. The Basics"
+    url: https://alexjungaalto.github.io/MLBasicsBook.pdf
+    desc: Draft for Textbook "Machine Learning. The Basics" 
+  - title: YouTube Channel
+    url: https://www.youtube.com/channel/UC_tW4Z_GfJ2WCnKDtwMuDUA
+    desc: My YouTube channel
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/aljung/
+    desc: My LinkedIn account
+
+# Used by Jekyll to recognize what is a post and what is a page
+defaults:
+  -
+    scope:
+      path: ''
+      type: posts
+    values:
+      layout: post
+
+# Markdown parser settings
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false          # you can change this if you feel like it
+  parse_block_html: true    # allow parsing html inside markdown
+
+# Build settings
+include:
+  - _pages                  # all your pages can be put inside pages (except articles)
+exclude:
+  - README.md
+  - vendor
+gems:
+  - jekyll-paginate
