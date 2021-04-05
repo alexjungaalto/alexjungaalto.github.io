@@ -1,21 +1,27 @@
-# The main config file for your Jekyll template
+title: Alexander Jung (AJ)
+description: Machine Learning Evangelist
+author:
+  name: Alexander Jung
+  nickname: alexjungaalto
+  twitter: alexjungaalto
+#hostname: jimeh.me # used to determine if google analytics should be triggered
+#url: https://jimeh.me # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog/
+permalink: /:title/
 
 
-# Site settings
-title: Alexander Jung              # used for the html title of every page
-desc: Professional website of Alexander Jung
-url: https://alexjungaalto.github.io/      # put your website hosting url here
+# stuff for jekyll-seo-tag
+social:
+  name: Alex Jung
+  links:
+    - https://twitter.com/alexjungaalto
+    - https://github.com/alexjungaalto
+    - https://www.linkedin.com/in/aljung/
+    - https://www.youtube.com/channel/UC_tW4Z_GfJ2WCnKDtwMuDUA
+    - https://alexjungaalto.github.io/MLBasicsBook.pdf
 
-
-# Meta settings
-email: alex.jung@aalto.fi
-author: Alexander Jung
-twitter_username: alexjungaalto
-github_username: alexjungaalto
-github_source: alexjungaalto.github.io
-
-# Put your ga tracking code below
-google_analytics: 'UA-XXXXXXXX-X'
+twitter:
+  username: alexjungaalto
 
 # Navigation settings
 # Used to define the navigation menu items
@@ -31,7 +37,35 @@ navigation:
     url: https://www.linkedin.com/in/aljung/
     desc: My LinkedIn account
 
-# Markdown parser settings
-markdown: kramdown
-theme: minima
+
+# additional stuff
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - Rakefile
+  - README.md
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "default"
+
+
+# Site settings
+title: Alexander Jung              # used for the html title of every page
+desc: Professional website of Alexander Jung
+url: https://alexjungaalto.github.io/      # put your website hosting url here
+
+
+
+
+
+
+
+
 
