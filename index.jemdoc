@@ -20,14 +20,16 @@ in 2008 and 2012, respectively. Currently, I am an Associate Professor (tenured)
 Computer Science of Aalto University. My current focus are fundamental limits, intrinsic trade-offs end practical implementations 
 of trustworthy federated learning. 
 
-== NEWS 
 
-- I am working on ``A Dictionary of Machine Learning'' {{<a href="https://aaltodictionaryofml.github.io/ADictML.pdf" target="_blank">click me</a>}}. Please give feedback! 
 
 - New preprint on "Towards Model-Agnostic Federated Learning over Networks" available. {{<a href="https://arxiv.org/abs/2302.04363" target="_blank">click me</a>}} 
 
-- Our course *CS-EJ3211 /Machine Learning with Python/* was among the best large Computer-Science courses at Aalto University during 2022.  {{<a href="MLwP2022Certificate.pdf"  target="_blank">certificate</a>}}
 
+== Infor for (Prospective) Master Students 
+
+- I have prepared a starter kit for master thesis workers {{<a href="https://github.com/alexjungaalto/masterthesis" target="_blank">here</a>}} 
+
+- I have started to share recordinds of our group meetings on my Youtube channel. {{<a href="https://youtube.com/playlist?list=PLrbn2dGrLJK8wsi_vpr94Gzas7TzUsFNh" target="_blank">Playlist</a>}} 
 
 == Research Highlight: Computational and Statistical Aspects of Total Variation Minimization for Federated Learning
 
