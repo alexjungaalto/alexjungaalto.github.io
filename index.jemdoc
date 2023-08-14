@@ -13,19 +13,19 @@
 - Textbook: "Machine Learning - The Basics", Springer, 2022 ({{<a href="http://mlbook.cs.aalto.fi"  target="_blank">"draft"</a>}} ) \n
 ~~~
 
-== About me
+== About Me
 
 I have received a Dipl.-Ing. (MSc) and Dr.techn. (Phd) degree in electrical engineering and signal processing from TU Vienna 
 in 2008 and 2012, respectively. Currently, I am an Associate Professor (tenured) for Machine Learning at the Department of 
 Computer Science of Aalto University. My current focus are fundamental limits, intrinsic trade-offs end practical implementations 
 of trustworthy federated learning. 
 
-
+== Updates 
 
 - New preprint on "Towards Model-Agnostic Federated Learning over Networks" available. {{<a href="https://arxiv.org/abs/2302.04363" target="_blank">click me</a>}} 
 
 
-== Infor for (Prospective) Master Students 
+== For (Prospective) Master Students 
 
 - I have prepared a starter kit for master thesis workers {{<a href="https://github.com/alexjungaalto/masterthesis" target="_blank">here</a>}} 
 
