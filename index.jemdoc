@@ -8,7 +8,7 @@
 - Associate Editor for IEEE Signal Processing Letters {{(<a href="https://signalprocessingsociety.org/publications-resources/ieee-signal-processing-letters/editorial-board"  target="_blank">website</a>) }}\n
 - Editorial Board Member, "Machine Learning" (Springer) {{(<a href="https://www.springer.com/journal/10994/editors"  target="_blank">website</a>)}} \n
 - Follow me on {{<a href="https://www.linkedin.com/in/aljung/"  target="_blank">LinkedIn</a>}}
-- Subscribe my {{<a href="https://www.youtube.com/channel/UC_tW4Z_GfJ2WCnKDtwMuDUA"  target="_blank">Machine Learning YouTube</a>}} channel
+- Subscribe to my {{<a href="https://www.youtube.com/channel/UC_tW4Z_GfJ2WCnKDtwMuDUA"  target="_blank">Machine Learning YouTube</a>}} channel
 - Fork me on {{<a href="https://github.com/alexjungaalto"  target="_blank">GitHub</a>}}
 - Textbook: "Machine Learning - The Basics", Springer, 2022 ({{<a href="http://mlbook.cs.aalto.fi"  target="_blank">"draft"</a>}} ) \n
 ~~~
@@ -17,8 +17,9 @@
 
 I have received a Dipl.-Ing. (MSc) and Dr.techn. (Phd) degree in electrical engineering and signal processing from TU Vienna 
 in 2008 and 2012, respectively. Currently, I am an Associate Professor (tenured) for Machine Learning at the Department of 
-Computer Science of Aalto University. My current focus are fundamental limits, intrinsic trade-offs end practical implementations 
-of trustworthy federated learning. 
+Computer Science of Aalto University. My research and teaching revolves around the mathematical foundations of trustworthy 
+machine learning with an emphasis on application domains that generate networked data. These application domains 
+include numerical weather prediction, renewable energy networks, city planning or condition monitoring. 
 
 == Updates 
 
