@@ -1,9 +1,8 @@
 menu
     home                 [index.html]
-    teaching              [https://machinelearningforall.github.io/teaching/]
-    research             [https://machinelearningforall.github.io/research/]
-    master students      [MasterThesisSupervisedCurrent.pdf]
-    supervision          [Supervision.pdf] 
+    teaching             [https://machinelearningforall.github.io/teaching/]
+    research            [https://machinelearningforall.github.io/research/]
+    supervision        [https://machinelearningforall.github.io/supervision/]
 
 
 
