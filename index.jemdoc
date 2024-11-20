@@ -18,23 +18,9 @@
 - {{<a href="https://www.researchgate.net/profile/Alexander-Jung">Alexander Jung on ResearchGate</a>}}
 ~~~
 
-== About Me
+== More about me and what I am up to 
 
-I hold Dipl.-Ing. (MSc) and Dr.techn. (PhD) degrees in electrical engineering and signal processing from 
-TU Vienna, conferred in 2008 and 2012 respectively. As a tenured Associate Professor 
-for Machine Learning I lead the "Machine Learning for Big Data" group at the Department of Computer Science of 
-Aalto University (Finland). Our current research focus is on the mathematical underpinnings of trustworthy 
-artificial intelligence. We study fundamental limits and efficient algorithms for explainable machine learning 
-from decentralized and heterogenous data. Such data arises in several important application domains such as 
-numerical weather prediction, renewable energy networks, city planning, and condition monitoring for electric machines.
-
-== Updates 
-
-- We have developed a novel federated learning method that allows to train arbitrary collections of personal models from 
-local datasets related by a similarity graph. The method has been presented at the conference EUSIPCO 2023: 
-
-A. Jung, S. Abdurakhmanova, O. Kuznetsova and Y. Sarcheshmehpour, "Towards Model-Agnostic Federated Learning over Networks," 31st European Signal Processing Conference (EUSIPCO), Helsinki, Finland, 2023, pp. 1614-1618, doi: 10.23919/EUSIPCO58844.2023.10290116.{{<a href="https://arxiv.org/abs/2302.04363" target="_blank">preprint</a>}} 
-
+can be found [https://machinelearningforall.github.io/ (here)].
 
 == Master Thesis in Machine Learning - Some Guidance 
 
