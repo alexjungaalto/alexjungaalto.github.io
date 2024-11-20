@@ -1,7 +1,7 @@
 menu
     home                 [index.html]
-    teaching              [TeachingPortfolio_Aalto_2022.pdf]
-    publications         [PubListAug2022.pdf]
+    teaching              [https://machinelearningforall.github.io/teaching/]
+    research                   [PubListAug2022.pdf]
     master students      [MasterThesisSupervisedCurrent.pdf]
     supervision          [Supervision.pdf] 
     projects   	        [projects.html]
